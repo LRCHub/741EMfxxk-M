@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "春紛い",
+  "base_artist": "MAISONdes",
+  "createdAt": "2026-02-18T08:42:56.317004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春紛い",
+      "artist": "MAISONdes feat. Ayuni D & ニト。",
+      "has_synced": false,
+      "path": "select/01_春紛い_MAISONdes_feat._Ayuni_D_&_ニト。.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春紛い",
+      "artist": "MAISONdes feat. アユニ・D & ニト。",
+      "has_synced": false,
+      "path": "select/02_春紛い_MAISONdes_feat._アユニ・D_&_ニト。.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春紛い",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/03_春紛い_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春紛い",
+      "artist": "MAISONdes, Ayuni D, ニト。",
+      "has_synced": true,
+      "path": "select/04_春紛い_MAISONdes,_Ayuni_D,_ニト。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春紛い",
+      "artist": "MAISONdes feat. アユニ・D & ニト。",
+      "has_synced": true,
+      "path": "select/05_春紛い_MAISONdes_feat._アユニ・D_&_ニト。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "春紛い (feat․ アユニ・D, ニト。)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/06_春紛い_(feat._アユニ・D,_ニト。)_MAISONdes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春紛い",
+      "artist": "MAISONdes, アユニ・D, ニト。",
+      "has_synced": false,
+      "path": "select/pl_01_春紛い_MAISONdes,_アユニ・D,_ニト。.txt"
+    }
+  ]
+}
